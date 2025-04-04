@@ -1,4 +1,4 @@
-![Template rluipdev](rluispdev.png)
+![Template rluipdev](rluispdev(1).png)
 
 
 # Análise e Resumo sobre Conceitos de IA no Copilot Studio da Microsoft
