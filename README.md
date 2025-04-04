@@ -3,7 +3,8 @@
 
 # Análise e Resumo sobre Conceitos de IA no Copilot Studio da Microsoft
 
-Este arquivo README fornece um resumo da análise dos principais conceitos de Inteligência Artificial (IA) relevantes para o uso do Microsoft Copilot Studio. A análise detalhada pode ser encontrada no arquivo `input/analise_ia_copilot_studio.txt`.
+Este arquivo README fornece um resumo da análise dos principais conceitos de Inteligência Artificial (IA) relevantes para o uso do Microsoft Copilot Studio. A análise detalhada pode ser encontrada no arquivo   <a href="https://github.com/rluispdev/analiseCopilotStudioDIO/tree/main/inputs" target="_blank">
+ input/analise_ia_copilot_studio.txt</a>.
 
 ## Visão Geral
 
@@ -11,7 +12,7 @@ A análise explora os fundamentos da IA que impulsionam o Copilot Studio, desde 
 
 ## Conteúdo da Análise (Resumo)
 
-A análise detalhada no arquivo `input/analise_ia_copilot_studio.txt` cobre os seguintes pontos principais:
+A análise detalhada no arquivo `` cobre os seguintes pontos principais:
 
 **1. Principais Conceitos Abordados:**
 
