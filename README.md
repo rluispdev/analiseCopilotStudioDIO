@@ -12,7 +12,8 @@ A análise explora os fundamentos da IA que impulsionam o Copilot Studio, desde 
 
 ## Conteúdo da Análise (Resumo)
 
-A análise detalhada no arquivo `` cobre os seguintes pontos principais:
+A análise detalhada no arquivo <a href="https://github.com/rluispdev/analiseCopilotStudioDIO/tree/main/inputs" target="_blank">
+ input/analise_ia_copilot_studio.txt</a> cobre os seguintes pontos principais:
 
 **1. Principais Conceitos Abordados:**
 
