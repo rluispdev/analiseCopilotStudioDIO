@@ -1,0 +1,56 @@
+Análise e Resumo sobre Conceitos de IA no Copilot Studio da Microsoft
+
+1. Principais Conceitos Abordados:
+IA Generativa:
+Imita o comportamento humano usando aprendizado de máquina.
+Cria conteúdo original em diversos formatos (linguagem natural, imagens, código).
+Aplicações: Chatbots, criação de conteúdo, etc.
+Modelos de Linguagem Grandes (LLMs):
+Alimentam as aplicações de IA generativa.
+Capazes de executar tarefas de Processamento de Linguagem Natural (PLN).
+Exemplos de tarefas PLN: Determinação de sentimento, sumarização, comparação de textos, geração de linguagem natural.
+Arquitetura Transformer:
+Base para LLMs.
+Componentes principais: codificador (cria representações semânticas) e decodificador (gera sequências de linguagem).
+Tokenização:
+Processo de dividir o texto em unidades menores (tokens).
+Cada token recebe uma representação numérica única.
+Inserções (Embeddings):
+Representações vetoriais dos tokens que capturam as relações semânticas entre eles.
+Mecanismo de Atenção:
+Permite ao modelo focar nas partes mais relevantes da entrada ao gerar a saída.
+Copilotos:
+Assistentes virtuais integrados a aplicativos.
+Utilizam prompts para interagir com LLMs e gerar respostas.
+Engenharia de Prompts:
+Processo de otimizar os prompts para obter melhores resultados dos modelos de IA.
+Técnicas: Linguagem direta, mensagens do sistema, exemplos, dados de fundamentação.
+Conceitos Fundamentais de IA (Azure):
+Visão Computacional
+Processamento de Linguagem Natural
+Inteligência de Documentos e Mineração de Conhecimento
+IA Generativa
+IA Responsável:
+Princípios: Imparcialidade, confiabilidade e segurança, privacidade e segurança, inclusão, transparência, responsabilidade.
+Fundamentos do Aprendizado de Máquina:
+Dados de treinamento, algoritmos, modelos, inferência, predição.
+Tipos de aprendizado: supervisionado, não supervisionado.
+Regressão, Classificação (binária e multiclasse)
+Aprendizado Profundo (Deep Learning):
+Redes Neurais Artificiais
+Tokenization, Processamento de texto, Sentiment anaisis, análise de opinião
+Reconhecimento de Entidades Nomeadas (NER):
+Identificação e extração de entidades (pessoas, lugares, datas, etc.) do texto.
+Serviços do Azure:
+Serviço de Bot do Azure
+Linguagem Coloquial
+Estudio de Fala
+2. Insights e Possibilidades:
+IA Generativa como Ferramenta Poderosa: A IA generativa tem o potencial de transformar a forma como criamos conteúdo, automatizamos tarefas e interagimos com a tecnologia.
+Importância da Engenharia de Prompts: A qualidade dos prompts tem um impacto direto na qualidade das respostas geradas pela IA.
+Necessidade de IA Responsável: É fundamental considerar os aspectos éticos e de segurança ao desenvolver e implantar soluções de IA.
+Aprendizado Contínuo: A área de IA está em constante evolução, exigindo um compromisso com o aprendizado contínuo.
+Integração com o Azure: O Azure oferece um conjunto abrangente de serviços e ferramentas para construir e implantar soluções de IA.
+
+
+
