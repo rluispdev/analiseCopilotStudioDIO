@@ -40,7 +40,8 @@ A análise detalhada no arquivo <a href="https://github.com/rluispdev/analiseCop
 
 ## Como Utilizar
 
-Para obter uma compreensão completa da análise, leia o arquivo `input/analise_ia_copilot_studio.txt`. Este README serve como um guia rápido e um resumo dos principais tópicos abordados.
+Para obter uma compreensão completa da análise, leia o arquivo <a href="https://github.com/rluispdev/analiseCopilotStudioDIO/tree/main/inputs" target="_blank">
+ input/analise_ia_copilot_studio.txt</a> . Este README serve como um guia rápido e um resumo dos principais tópicos abordados.
 
 # Instrutora
 Valéria Baptista |  Product Manager,  Security,Cloud Enthusiast,  Speaker, Writer, Career Mentor, Technology Content Creator ,  Expert DIO Global 
